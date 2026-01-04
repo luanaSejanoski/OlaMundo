@@ -3,7 +3,8 @@
 ### Olá Mundo
 ---
 Estou aprendendo a linguagem **Markdown**
-Podemos _*misturar*_configurações
+
+Podemos _**misturar**_ configurações
 
 Lista numerada:
 
